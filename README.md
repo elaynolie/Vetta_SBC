@@ -8,9 +8,9 @@ Hi, I'm **Roman Syrtlanov**, a VoIP engineer from Russia. This is SBC "VETTA":
 
 ## Tech Stack
 
-- **[OpenSIPS 3.6](https://opensips.org/)** — core SIP signaling engine
-- **[RTPengine](https://github.com/sipwise/rtpengine)** — media relay / RTP proxy
-- **PostgreSQL** — persistent storage (subscribers, dialplan, routing tables)
+- **[OpenSIPS 3.6](https://opensips.org/)** — signaling core
+- **[RTPengine](https://github.com/sipwise/rtpengine)** — RTP proxy
+- **PostgreSQL** — persistent storage (subscribers (if used), dialplan, routing tables)
 - **RabbitMQ** — event bus / eventing
 - **[Homer](https://github.com/sipcapture/homer)** — HEP-based SIP capture and traffic visualization
 
