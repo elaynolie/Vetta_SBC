@@ -1,6 +1,6 @@
 # Vetta SBC
 
-**Vetta SBC** is a Session Border Controller built on top of **OpenSIPS 3.6.7**, designed for carrier-grade SIP trunking, subscriber registration, and fraud-resistant call routing.
+**Vetta SBC** is a Session Border Controller built on top of **OpenSIPS 3.6**, designed for carrier-grade SIP trunking, subscriber registration, and fraud-resistant call routing.
 
 Hi, I'm **Roman Syrtlanov**, a VoIP engineer from Russia. This is SBC "VETTA":
 
